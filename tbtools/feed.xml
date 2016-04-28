@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tbtools on CJchen&#39;s Blog</title>
+    <link>http://CJ-Chen.github.io/tbtools/</link>
+    <description>Recent content in Tbtools on CJchen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2016 16:17:18 +0800</lastBuildDate>
+    <atom:link href="http://CJ-Chen.github.io/tbtools/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About TBtools</title>
+      <link>http://cj-chen.github.io/tbtools/Introduction/</link>
+      <pubDate>Thu, 28 Apr 2016 16:17:18 +0800</pubDate>
+      
+      <guid>http://cj-chen.github.io/tbtools/Introduction/</guid>
+      <description>
+
+&lt;h1 id=&#34;a-breif-introduction-of-tbtools:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;A Breif Introduction of TBtools&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/CJ-Chen/TBtools/releases&#34;&gt;TBtool&lt;/a&gt; is a Toolset that was written by CJ-Chen for wet-lab biologists.&lt;br /&gt;
+It can run in all Operating system including Mac, Linux, Windows, which have &lt;a href=&#34;http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html&#34;&gt;Java 1.8 run time environment&lt;/a&gt;.&lt;br /&gt;
+Both command line usages and GUI manipulation have been implemented.&lt;br /&gt;
+U can use it and distribute it freely, for researches or for commecial purpose.&lt;br /&gt;
+Well, if u found it useful to u, I will be very graceful that u cite TBtool in u paper&amp;hellip;&lt;/p&gt;
+
+&lt;h1 id=&#34;gui-usages-entry:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;GUI usages entry&lt;/h1&gt;
+
+&lt;p&gt;In default mode, if running in working in a environment graphical, the GUI of TBtools will be showed.&lt;br /&gt;
+Genrally, what u need to do is &lt;strong&gt;&lt;em&gt;double clicking&lt;/em&gt;&lt;/strong&gt; the icon of TBtool_v0.X.jar&lt;br /&gt;
+!if it doesn&amp;rsquo;t work in this way, u may need to open the GUI of TBtools from command line.&lt;br /&gt;
+example command is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;java -jar PATH/TBtools_0.X.jar  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, TBtools GUI will pop out, as followed:
+&lt;img src=&#34;http://CJ-Chen.github.io/tbtools/images/MainWindows.png&#34; alt=&#34;TBtools GUI MainWindows&#34; title=&#34;MainWindows&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;command-line-usages-entry:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Command line usages entry&lt;/h1&gt;
+
+&lt;p&gt;If working environment doesn&amp;rsquo;t contain graphical mode, the command line usage will defaultly showed, when u type&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;java -jar PATH/TBtools_v0.X.jar
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;However, if u want to use command line functions of TBtools in a graphical working environment, a little modification of the command shoud be made.&lt;br /&gt;
+example command is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;java -jar PATH/TBtools_v0.X.jar anythings
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

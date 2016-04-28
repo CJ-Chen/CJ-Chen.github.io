@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CJchen&#39;s Blog</title>
+    <link>http://CJ-Chen.github.io/post/</link>
+    <description>Recent content in Posts on CJchen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 16:17:18 +0800</lastBuildDate>
+    <atom:link href="http://CJ-Chen.github.io/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Post</title>
+      <link>http://cj-chen.github.io/post/FirstPost/</link>
+      <pubDate>Wed, 27 Apr 2016 16:17:18 +0800</pubDate>
+      
+      <guid>http://cj-chen.github.io/post/FirstPost/</guid>
+      <description>
+
+&lt;h2 id=&#34;hello-there-again:da240d7e5080f14f53a771c9b2113a34&#34;&gt;Hello,there&amp;hellip;.again&lt;/h2&gt;
+
+&lt;p&gt;really busy recently&lt;/p&gt;
+
+&lt;p&gt;Some friends from QQ group asks me about the progress of &amp;lsquo;building&amp;rsquo; this blog&lt;/p&gt;
+
+&lt;p&gt;So tonight.I make some effort on it.&lt;/p&gt;
+
+&lt;p&gt;The new site just finished.&lt;/p&gt;
+
+&lt;p&gt;Some post will be updated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
