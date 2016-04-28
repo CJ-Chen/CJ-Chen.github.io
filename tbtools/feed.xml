@@ -25,6 +25,25 @@ Both command line usages and GUI manipulation have been implemented.&lt;br /&gt;
 U can use it and distribute it freely, for researches or for commecial purpose.&lt;br /&gt;
 Well, if u found it useful to u, I will be very graceful that u cite TBtool in u paper&amp;hellip;&lt;/p&gt;
 
+&lt;h1 id=&#34;aims:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Aims&lt;/h1&gt;
+
+&lt;p&gt;Facilate some common and elaborate but simple molecular analysis tasks such as &lt;strong&gt;&lt;em&gt;sequences extract, gene set funtional enrichment&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+Be a useful toolkit for biologists to better untilizate upstream analysis results of high-throughput data&lt;/p&gt;
+
+&lt;h1 id=&#34;part-of-functions:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Part of Functions&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Comparise ID lists Using Venn Diagrams&lt;/li&gt;
+&lt;li&gt;Check Expression Trends of Interesting Genes&lt;/li&gt;
+&lt;li&gt;Get Annotation Information from tables&lt;/li&gt;
+&lt;li&gt;Extract Fasta Records&lt;/li&gt;
+&lt;li&gt;Compare Two sequences(set) leveraging blast automately&lt;/li&gt;
+&lt;li&gt;Visualize Blast Results&lt;/li&gt;
+&lt;li&gt;GO Analysis (Counts On Levels/Parser GO term/GO enrichmen/GO term Compare&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Label Newick Tree (partial functions of EasyCodeML.jar)
+&amp;hellip;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;h1 id=&#34;gui-usages-entry:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;GUI usages entry&lt;/h1&gt;
 
 &lt;p&gt;In default mode, if running in working in a environment graphical, the GUI of TBtools will be showed.&lt;br /&gt;
