@@ -6,8 +6,30 @@
     <description>Recent content on CJchen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2016 16:17:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2016 19:30:21 +0800</lastBuildDate>
     <atom:link href="http://CJ-Chen.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Extracting_Fasta_Records</title>
+      <link>http://cj-chen.github.io/tbtools/Extracting_Fasta_Records/</link>
+      <pubDate>Fri, 06 May 2016 19:30:21 +0800</pubDate>
+      
+      <guid>http://cj-chen.github.io/tbtools/Extracting_Fasta_Records/</guid>
+      <description>
+
+&lt;h1 id=&#34;extracting-fasta-records:a8080c3e60ba11a758f8217788b94420&#34;&gt;Extracting Fasta Records&lt;/h1&gt;
+
+&lt;p&gt;Multiple fasta records extraction is the most frequently needs in daily molecular data analysis.&lt;br /&gt;
+To skillful programmer or bioinformatisian, a small scripts or one command is the only need to achieve it.&lt;br /&gt;
+However, to others, precious time may be wasted on ID searching and text copying.&lt;br /&gt;
+With TBtools, user just need to drag a file containing sequences in fasta format, like transcriptome assembly result and a target id list (or manual enter id list) into the software and then get all sequences of need in a short time.&lt;br /&gt;
+Besides,if ID with start base position and end base position were given, regions of corresponding sequences could be extracted, which is very useful to extract up-stream and down-stream of gene position from big genome sequences.&lt;/p&gt;
+
+&lt;h1 id=&#34;example:a8080c3e60ba11a758f8217788b94420&#34;&gt;Example&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://CJ-Chen.github.io/tbtools/images/FastaExtracter.png&#34; alt=&#34;Extractingfastarecords&#34; title=&#34;FastaExtracter&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About TBtools</title>
