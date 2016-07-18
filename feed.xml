@@ -6,8 +6,28 @@
     <description>Recent content on CJchen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2016 19:30:21 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2016 08:50:28 +0800</lastBuildDate>
     <atom:link href="http://CJ-Chen.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TBtools seminar</title>
+      <link>http://cj-chen.github.io/tbtools/TBtools-seminar/</link>
+      <pubDate>Mon, 18 Jul 2016 08:50:28 +0800</pubDate>
+      
+      <guid>http://cj-chen.github.io/tbtools/TBtools-seminar/</guid>
+      <description>&lt;p&gt;Hello, there.
+I have shared &lt;strong&gt;&lt;em&gt;TBtools&lt;/em&gt;&lt;/strong&gt; with friends from bioinformatics*中国(QQ group num: 276151571) last night.&lt;br /&gt;
+The video that has recorded all things during the seminar time has been uploaded on YouKu.&lt;/p&gt;
+
+&lt;p&gt;&lt;embed src=&#34;http://player.youku.com/player.php/sid/XMTY0Nzg0NjU5Mg==/v.swf&#34; allowFullScreen=&#34;true&#34; quality=&#34;high&#34; width=&#34;480&#34; height=&#34;400&#34; align=&#34;middle&#34; allowScriptAccess=&#34;always&#34; type=&#34;application/x-shockwave-flash&#34;&gt;&lt;/embed&gt;&lt;/p&gt;
+
+&lt;p&gt;If the video is not clear enough, you may also &lt;a href=&#34;http://v.youku.com/v_show/id_XMTY0Nzg0NjU5Mg==.html#paction&#34;&gt;Click Me&lt;/a&gt; to watch it.
+Hope that it will be useful if it knew about TBtools and use it.&lt;/p&gt;
+
+&lt;p&gt;CJ
+20160718&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Extracting_Fasta_Records</title>
